@@ -7,8 +7,9 @@
   --color-bg-secondary: #242424;
   --color-bg-footer: #151515;
   --color-white: #ffffff;
-  --color-text: #46f9ff;
+  --color-text: #09ffc1;
   --color-border: #373737;
+  --bg-image: url("assets/img/deer.jpg");
 
   /* Font & Typography
   ___________________*/
